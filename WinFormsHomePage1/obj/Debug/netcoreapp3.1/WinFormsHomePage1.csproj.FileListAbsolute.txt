@@ -1,0 +1,16 @@
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\bin\Debug\netcoreapp3.1\WinFormsHomePage1.exe
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\bin\Debug\netcoreapp3.1\WinFormsHomePage1.deps.json
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\bin\Debug\netcoreapp3.1\WinFormsHomePage1.runtimeconfig.json
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\bin\Debug\netcoreapp3.1\WinFormsHomePage1.runtimeconfig.dev.json
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\bin\Debug\netcoreapp3.1\WinFormsHomePage1.dll
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\bin\Debug\netcoreapp3.1\WinFormsHomePage1.pdb
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.csprojAssemblyReference.cache
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.Form1.resources
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.csproj.GenerateResource.cache
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.AssemblyInfoInputs.cache
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.AssemblyInfo.cs
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.csproj.CoreCompileInputs.cache
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.dll
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.pdb
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.genruntimeconfig.cache
+C:\Users\Crina\Desktop\an3sem2\II\II_Proiect_aplicatie\WinFormsHomePage1\WinFormsHomePage1\obj\Debug\netcoreapp3.1\WinFormsHomePage1.Properties.Resources.resources
